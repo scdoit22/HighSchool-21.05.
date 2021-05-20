@@ -27,7 +27,7 @@ class MidSquareMethod: # 중앙제곱법
 if __name__ == "__main__":
     MS = MidSquareMethod()
     randNum = 0
-    print("난수의 수 : ")
+    print("난수 개수 : ")
     repeat = int(input())
 
     for i in range(1, repeat):
