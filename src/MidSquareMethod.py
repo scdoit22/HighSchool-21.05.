@@ -1,6 +1,5 @@
 """
 융합 탐구 학술제
-중앙제곱법
 """
 class MidSquareMethod: # 중앙제곱법
     outNumLength = 0 #얻고자 하는 난수의 자릿수
