@@ -29,3 +29,9 @@ https://m.blog.naver.com/PostView.naver?blogId=a4gkyum&logNo=220676133854&proxyR
 따라서 선형 합동생성기를 이용한 암호학은 쉽게 공격자가 해독하여 공격할 수 있기에 암호학에서는 사용하지 않는다.
 
 출처: https://www.crocus.co.kr/1146 [Crocus]
+
+--------------------------------------------
+블록체인
+
+의사난수에서 시드 - 미래의 해시값 이용
+https://www.tokenbank.co.kr/news/detail/32624/
