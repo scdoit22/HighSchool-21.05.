@@ -30,6 +30,6 @@ if __name__ == "__main__":
     print("난수 개수 : ")
     repeat = int(input())
 
-    for i in range(1, repeat):
+    for i in range(1, repeat + 1):
         randNum = MS.createRandNum()
         print(randNum)
